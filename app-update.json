@@ -1,6 +1,6 @@
 {
-  "latest_build_android": 24,
-  "latest_build_ios": 24,
+  "latest_build_android": 23,
+  "latest_build_ios": 23,
   "min_supported_build_android": 20,
   "min_supported_build_ios": 20,
   "force_update": false,
