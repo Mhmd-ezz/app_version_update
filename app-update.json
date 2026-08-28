@@ -1,9 +1,9 @@
 {
-  "latest_build_android": 25,
-  "latest_build_ios": 25,
+  "latest_build_android": 29,
+  "latest_build_ios": 29,
   "min_supported_build_android": 20,
   "min_supported_build_ios": 20,
   "force_update": true,
   "android_store_url": "https://play.google.com/store/apps/details?id=com.vioralabs.spendary",
-  "ios_store_url": "https://apps.apple.com/lb/app/spendary-expense-tracker/id6759258378"
+  "ios_store_url": "https://apps.apple.com/lb/app/spendary-finance/id6759258378"
 }
